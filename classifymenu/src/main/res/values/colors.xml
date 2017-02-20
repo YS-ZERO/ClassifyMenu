@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="iv_item_color1">#bb000000</color>
+    <color name="iv_item_color2">#00000000</color>
+    <color name="bg_white">#ffffffff</color>
+    <color name="view_divide">#ff000000</color>
+
+    <color name="def_font_color">#ff000000</color>
+    <color name="selected_font_color">#ff11cd6e</color>
+</resources>
