@@ -1,4 +1,4 @@
-package pri.ys.classifymenu;
+package net.yszero.classifymenu;
 
 import org.junit.Test;
 

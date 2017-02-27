@@ -1,4 +1,4 @@
-package pri.ys.example;
+package net.yszero.classifymenu.test;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,11 +7,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 
+import net.yszero.classifymenu.ClassifySelectView;
+import net.yszero.classifymenu.ItemListVO;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import pri.ys.classifymenu.view.ui.ClassifySelectView;
-import pri.ys.classifymenu.view.vo.ItemListVO;
 
 public class MainActivity extends Activity implements ClassifySelectView.onSelectListener {
 

@@ -1,4 +1,4 @@
-package pri.ys.classifymenu.view.adapter;
+package net.yszero.classifymenu;
 
 import android.content.Context;
 import android.view.LayoutInflater;

@@ -1,4 +1,4 @@
-package pri.ys.classifymenu.view.ui;
+package net.yszero.classifymenu;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -14,8 +14,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import pri.ys.classifymenu.R;
-import pri.ys.classifymenu.view.adapter.ClassifySelectItemAdapter;
-import pri.ys.classifymenu.view.vo.ItemListVO;
 
 
 /**

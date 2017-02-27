@@ -1,4 +1,4 @@
-package pri.ys.classifymenu;
+package net.yszero.classifymenu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

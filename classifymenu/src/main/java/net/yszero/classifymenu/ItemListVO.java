@@ -1,4 +1,4 @@
-package pri.ys.classifymenu.view.vo;
+package net.yszero.classifymenu;
 
 /**
  * Created by YS-WENJIE on 2016/9/13.

@@ -7,11 +7,10 @@
     tools:context="pri.ys.example.MainActivity">
 
 
-    <pri.ys.classifymenu.view.ui.ClassifySelectView
+    <net.yszero.classifymenu.ClassifySelectView
         android:id="@+id/classify_select_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
-
+        android:layout_height="match_parent" />
 
 
 </RelativeLayout>
